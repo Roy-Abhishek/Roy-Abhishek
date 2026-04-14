@@ -3,7 +3,7 @@
   CS & Physics @ San Jose State University -- Quantum Computing -- Systems Programming -- Digital Logic
 </p>
 <p align="center">
-  <a href="mailto:">Email</a> -- <a href="https://linkedin.com/">LinkedIn</a> -- <a href="https://github.com/Roy-Abhishek">GitHub</a>
+  <a href="mailto:royabhishek@gmail.com">Email</a> -- <a href="https://www.linkedin.com/in/abhishek-roy737/">LinkedIn</a> -- <a href="https://github.com/Roy-Abhishek">GitHub</a>
 </p>
 
 ---
